@@ -6,4 +6,6 @@ Nombre:Tovar Moscol Renzo
 
 Nombre de usuario: JOTAED  
 Nombre: Mejia Edwin  
-hola a todos
+
+Nombre de usuario: JA1305
+Nombre: Anaya Jairo
